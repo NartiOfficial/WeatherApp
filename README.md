@@ -37,7 +37,7 @@ The Weather App utilizes the OpenWeatherMap API to fetch real-time weather data 
    - Weather description
 4. The application updates the display with the retrieved information, including an appropriate weather icon based on the weather condition.
 
-### Local Setup
+## Local Setup
 
 To run the Weather App locally on your machine, follow these steps:
 
